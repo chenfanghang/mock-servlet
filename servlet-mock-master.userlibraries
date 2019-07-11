@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="E:/idea/servlet-mock-master/lib/javax.persistence.jar" />
+    <archive path="E:/idea/servlet-mock-master/lib/javax.ejb.jar" />
+    <archive path="E:/idea/servlet-mock-master/lib/javax.annotation.jar" />
+    <archive path="E:/idea/servlet-mock-master/lib/javax.jms.jar" />
+    <archive path="E:/idea/servlet-mock-master/lib/javax.transaction.jar" />
+    <archive path="E:/idea/servlet-mock-master/lib/javax.servlet.jsp.jar" />
+    <archive path="E:/idea/servlet-mock-master/lib/javax.resource.jar" />
+    <archive path="E:/idea/servlet-mock-master/lib/javax.servlet.jsp.jstl.jar" />
+    <archive path="E:/idea/servlet-mock-master/lib/javax.servlet.jar" />
+  </library>
+  <library name="Java EE 6-Java EE 6" />
+</eclipse-userlibraries>
+
